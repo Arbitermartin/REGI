@@ -56,16 +56,13 @@ input[type="Password"]{
     border: none;
     border-radius: 1rem;
 }
-@media screen and (min-width: 760px) {
-    .container{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-       
-}
-.form-control{
+@media  (max-width: 600px) {
+ .container{
     width: 100%;
-    
-}
+ }
+ .form-control{
+    display:block;
+    width: 100%;
+    margin: 2rem 2rem;
+ }
 }
