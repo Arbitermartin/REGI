@@ -63,6 +63,12 @@ input[type="Password"]{
  .form-control{
     display:block;
     width: 100%;
+<<<<<<< HEAD
     
+=======
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+>>>>>>> b7a1c01d5668c8a2f7de3064976de1074d17d158
  }
 }
