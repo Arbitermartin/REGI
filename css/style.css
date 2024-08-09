@@ -105,11 +105,11 @@ input[type="Password"]{
     grid-template-columns: repeat(3,1fr);
     column-gap: 2rem;
 }
-.kiut{
+/* .kiut{
     background-color: #000;
     color: whitesmoke;
     padding: 1rem;
-}
+} */
 @media  (max-width: 760px) {
  .container{
     width: 100%;
@@ -126,7 +126,7 @@ input[type="Password"]{
 img{
     width: 260px;
 }
-.kiut{
+/* .kiut{
     width: 260px;
-}
+} */
 }
