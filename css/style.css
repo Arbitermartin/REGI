@@ -123,5 +123,7 @@ input[type="Password"]{
 #item{
     display: block;
 }
-
+.kiut{
+    width: 260px;
+}
 }
