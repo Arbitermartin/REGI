@@ -94,6 +94,22 @@ input[type="Password"]{
 .dropdown:hover .dropdownbutton{
     background-color: gray;
 }
+#container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+}
+#item{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 2rem;
+}
+.kiut{
+    background-color: #000;
+    color: whitesmoke;
+    padding: 1rem;
+}
 @media  (max-width: 600px) {
  .container{
     width: 100%;
@@ -103,4 +119,9 @@ input[type="Password"]{
     width: 100%;
     margin: 0 auto;
 }
+
+#item{
+    display: block;
+}
+
 }
