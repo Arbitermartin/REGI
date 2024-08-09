@@ -7,55 +7,6 @@ body{
     background-color: whitesmoke;
     font-size: 23px;
 }
-/* .container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 1rem;
-  
-}
-.item{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 4rem;
-    width: 50%; 
-}
-h2{
-    color: blue;
-    font-size: 23px;
-    margin: 2rem 2rem;
-}
-p{
-    color: #000;
-    margin-bottom: 2rem;
-}
-p a{
-    text-decoration: none;
-}
-.form-control{
-    padding: 1rem;
-    background-color: white;
-    border-color: blue;
-}
-input[type="text"]{
-    width: 400px;
-    height: 60px;
-}
-input[type="Password"]{
-    width: 400px;
-    height: 60px;
-}
-.btn{
-    margin-left: 2.5rem;
-    width: 300px;
-    padding: 1rem;
-    margin-bottom: 0.8rem;
-    color: #fff;
-    background-color: rgb(10, 10, 109);
-    border: none;
-    border-radius: 1rem;
-} */
 .container-1{
     display: flex;
     justify-content: center;
@@ -112,15 +63,6 @@ input[type="Password"]{
     padding: 1rem;
 } */
 @media  (max-width: 760px) {
- .container{
-    width: 100%;
- }
- .form-control{
-    display:block;
-    width: 100%;
-    margin: 0 auto;
-}
-
 #item{
     display: block;
 }
