@@ -110,7 +110,7 @@ input[type="Password"]{
     color: whitesmoke;
     padding: 1rem;
 }
-@media  (max-width: 600px) {
+@media  (max-width: 760px) {
  .container{
     width: 100%;
  }
